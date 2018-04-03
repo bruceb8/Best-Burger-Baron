@@ -1,0 +1,13 @@
+Burger
+Double Baron Burger
+Triple Chicken Burger with Onions Cheese but Cheddar
+Baron Burger with no Veggies Sauce but Baron-Sauce
+Single Veggie Baron Burger
+Double Baron Burger with no Cheese but Mozzarella
+Single Burger with Veggies but no Lettuce
+Double Chicken Burger with Ketchup Cheddar Onions Mushrooms
+Double Beef Burger with Veggies Ketchup Tomato Pickle but no Tomato
+Triple Chicken Baron Burger with no Cheddar Pepperjack Sauce but Mustard Cheddar
+Nothing with Garbage Cheddar no Mustard
+Burger with Lettuce Sauce but Mustard
+Burger with Sauce Veggies Cheese but no Mustard Cheddar Ketchup Tomato
